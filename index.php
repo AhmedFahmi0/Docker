@@ -1,3 +1,3 @@
 <?php 
-echo "Welcome to my page";
+echo "Welcome to my website";
 
